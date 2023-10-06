@@ -43,7 +43,7 @@ The SARIMA model follows a similar process to the ARIMA model, but it also consi
 6. Accuracy Metrics: The MAPE is calculated to assess the accuracy of the SARIMA model's forecasts.
 
 # Usage
-1. Clone the repository: git clone https://github.com/your-username/time-series-forecasting.git
+1. Clone the repository: git clone https://github.com/Akash-111196/Forcasting-AirPassenger.git
 2. Set up your Python environment and install the required libraries.
 3. Run the Jupyter notebooks or Python scripts to experiment with ARIMA and SARIMA models on your own time series data.
    
